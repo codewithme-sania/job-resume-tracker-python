@@ -31,6 +31,7 @@ Add a new job application by entering:
 * Job role
 * Application status
 * Interview date
+* - 🗄️ SQLite database for persistent data storage
 
 ### 2. 📋 View Jobs
 
@@ -73,6 +74,16 @@ Exit the Job & Resume Tracker application.
 * `while` loops
 * User input
 * Basic data management
+* - **Python 3**
+- **SQLite**
+- SQL Queries
+- Python Functions
+- Lists & Dictionaries
+- Conditional Statements
+- Loops
+- File Handling
+- Exception Handling
+- VS Code
 
 ---
 
