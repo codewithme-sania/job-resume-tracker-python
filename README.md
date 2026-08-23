@@ -209,3 +209,6 @@ Aspiring Software Developer | Python Learner | ECE Student
 This project was created as part of my journey to strengthen my Python programming and problem-solving skills through practical projects.
 
 If you find this project useful, consider giving the repository a ⭐.
+- 🗄️ SQLite/MySQL database integration
+- 🖥️ GUI using Tkinter
+- 🌐 Web version using Flask or Django
